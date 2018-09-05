@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/neanderdesouza/Pipoca-design/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/neanderdesouza/Pipoca-design/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html lang="pt-br"
+    <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Currículo do Neander de Souza, design gráfico.">
+    <title>Neander de Souza Faria(Pipoca)</title>
+    </head>
+    <body>
+    <p><img src="Área de Trabalho/foto minha na saveiro.jpg" width="1880" height="300" atl="Neander de Souza Faria" ></p>
+        <pre>
+        <h1 style="color:red">Neander de Souza Faria(Pipoca)</h1>
+<h1 style="color:red">Objetivo&trade;</h1>
+ <strong style="color:blue">Pretendo fazer design gráfico.&trade;</strong><br>
+<h1 style="color:blue">Faço banner, logo e miniatura, edito vídeos e fotos.</h1>.
+<p style="color:red">Estudo na ETEC Centro Paulo de Souza com 1 IH e tecnico de informática.</p><br />
+        </pre>
+<pre>
+<h2 style="color:red">Contato</h2>
+<p><img src="Área de Trabalho/foto minha na saveiro 300x300.jpg" width="300" height="300" atl="Neander de Souza Faria" ></p>
+<dt><strong style="color:blue">neander.faria@hotmail.com</strong><br></dt>
+<dt><strong style="color:blue">mcspipoca47@gmail.com</strong><br></dt>
+<dt style="color:blue">(17) 99239-3644<br /></dt>
+<a href="https://www.facebook.com/neander.santo/">
+    <dd style="color:gold">facebook</dd>
+</pre>
+    </body>
+</html>
